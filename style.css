@@ -1,0 +1,59 @@
+body {
+    background: url(https://sun9-71.userapi.com/impg/rCJ0RVMzQF_VlgI_rL2_kO4u74x7xcr1_bkUXg/S8cpvsj1glM.jpg?size=1280x798&quality=95&sign=446f20209120a4ba2bc1a8ad1f2bafc1&type=album);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+
+
+    margin: 0 auto;
+        font-family: sans-serif;
+        line-height: 1.5;
+        height: 100%;
+        color: white;
+        width: 500px;
+        
+    }
+    #GitHub{
+        text-align: center;
+    }
+    #list3{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    #list2{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    #list{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    ul {
+        list-style: none;
+    }
+    html, body {
+        height: 100%;
+        }
+        div {
+            margin-bottom: 50px;
+            margin-top: 200px;
+            padding-bottom: 20px;
+            width: 70%;
+            margin: auto;
+            min-width: 200px;
+            background-color: #6c07f1;
+            border-radius: 12px;
+            box-sizing: border-box;
+            border-color: #9942f5;
+            justify-content: center;
+            background: linear-gradient(13deg,#3d3d3d,#525151,#858585,#b3b3b3,#3d3d3d,#525151) no-repeat;
+        }
+        h1 {
+            text-align: center;
+            font-size: 36px;
+            margin-bottom: 0;
+        }
+        main > h2 {
+            text-align: center;
+            font-size: 25px ;
+        }
